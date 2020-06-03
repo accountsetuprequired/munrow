@@ -1,0 +1,14 @@
+{
+  "name": "mmxx web app",
+  "short_name": "vaunt - mmxx",
+  "description": "the web-app for the vaunt homepage, because why not.",
+  "start_url": "/?homescreen=1",
+  "background_color": "#000",
+  "theme_color": "#b73e3e",
+  "display": "standalone",
+  "icons": [{
+    "src": "images/vauntwhite.png",
+    "sizes": "160x160",
+    "type": "image/png"
+  }]
+}
