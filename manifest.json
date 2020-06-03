@@ -7,7 +7,7 @@
   "theme_color": "#b73e3e",
   "display": "standalone",
   "icons": [{
-    "src": "images/vauntwhite.png",
+    "src": "assets/vauntwhite.png",
     "sizes": "160x160",
     "type": "image/png"
   }]
